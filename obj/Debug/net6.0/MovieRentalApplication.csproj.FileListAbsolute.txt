@@ -1,0 +1,168 @@
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\appsettings.json
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.staticwebassets.runtime.json
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.exe
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.deps.json
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.runtimeconfig.json
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.pdb
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.csproj.AssemblyReference.cache
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.AssemblyInfoInputs.cache
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.AssemblyInfo.cs
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.csproj.CoreCompileInputs.cache
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.RazorAssemblyInfo.cache
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.RazorAssemblyInfo.cs
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\staticwebassets\msbuild.MovieRentalApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieRentalApplication.props
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieRentalApplication.props
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieRentalApplication.props
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\scopedcss\bundle\MovieRentalApplication.styles.css
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\scopedcss\projectbundle\MovieRentalApplication.bundle.scp.css
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\refint\MovieRentalApplication.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.pdb
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.genruntimeconfig.cache
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\ref\MovieRentalApplication.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.csproj.CopyComplete
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pawan Kmr\source\repos\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\appsettings.Development.json
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\appsettings.json
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.staticwebassets.runtime.json
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.exe
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.deps.json
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.runtimeconfig.json
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\MovieRentalApplication.pdb
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Azure.Core.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Azure.Identity.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\System.Memory.Data.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\MovieRentalApplication\MovieRentalApplication\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.csproj.AssemblyReference.cache
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.GeneratedMSBuildEditorConfig.editorconfig
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.AssemblyInfoInputs.cache
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.AssemblyInfo.cs
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.csproj.CoreCompileInputs.cache
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.MvcApplicationPartsAssemblyInfo.cs
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.MvcApplicationPartsAssemblyInfo.cache
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.RazorAssemblyInfo.cache
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.RazorAssemblyInfo.cs
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\staticwebassets\msbuild.MovieRentalApplication.Microsoft.AspNetCore.StaticWebAssets.props
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\staticwebassets\msbuild.build.MovieRentalApplication.props
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MovieRentalApplication.props
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MovieRentalApplication.props
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\staticwebassets.pack.json
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\staticwebassets.build.json
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\staticwebassets.development.json
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\scopedcss\bundle\MovieRentalApplication.styles.css
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\scopedcss\projectbundle\MovieRentalApplication.bundle.scp.css
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.csproj.CopyComplete
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.dll
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\refint\MovieRentalApplication.dll
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.pdb
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\MovieRentalApplication.genruntimeconfig.cache
+F:\MovieRentalApplication\MovieRentalApplication\obj\Debug\net6.0\ref\MovieRentalApplication.dll
